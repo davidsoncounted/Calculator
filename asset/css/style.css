@@ -1,0 +1,36 @@
+tr input[type=button]{
+    width: 50px;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+    background-color: whitesmoke;
+}
+input[type=button]:hover{
+    background-color: rgb(207, 204, 204);
+}
+input[type=button]:active{
+    background-color: rgb(74, 74, 148);
+}
+
+input[type=text]{
+    padding: 20px 30px;
+    width: 115%;
+    /* height: ; */
+    border-radius: 10px;
+    background-color: white;
+    outline: none;
+    
+    
+}
+table{
+    margin: auto;
+    background-color: wheat;
+    width: 20%;
+    height: 80%;
+    margin-top: 100px;
+}
+td{
+    padding: 20px;
+}
